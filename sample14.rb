@@ -8,6 +8,6 @@
 
 
 
-s = gets
+n = gets
 
-puts s.upcase
+puts n.upcase
